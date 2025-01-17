@@ -1,0 +1,6 @@
+Flask
+flask_pymongo
+werkzeug
+bson
+face_recognition
+Pillow
